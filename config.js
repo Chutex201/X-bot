@@ -48,11 +48,13 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©X-:bot",
-  author: process.env.PACK_AUTHER || "X-bot",
+  caption: process.env.CAPTION || "© `YOUNGPRIEST`-:*BOT*",
+  author: process.env.PACK_AUTHER || "YOUNGPRIEST-BOT",
   packname: process.env.PACK_NAME || "",
-  botname: process.env.BOT_NAME || "X-bot",
-  ownername: process.env.OWNER_NAME || "-X-",
+  botname: process.env.BOT_NAME || "YOUNGPRIEST-BOT",
+  ownername: process.env.OWNER_NAME || "-YOUNGPRIEST
+    
+  -",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
