@@ -17,13 +17,13 @@ global.github = process.env.GITHUB || "https://github.com/Mek-d1/X-bot";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/mx0z4n.jpg";
-global.devs = "2349133354644";
-global.sudo = process.env.SUDO || "2349133354644";
-global.owner = process.env.OWNER_NUMBER || "2349133354644";
-global.style = process.env.STYLE || "3";
+global.devs = "2347025012871";
+global.sudo = process.env.SUDO || "2347025012871";
+global.owner = process.env.OWNER_NUMBER || "2347025012871";
+global.style = process.env.STYLE || "4";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "false";
-global.warncount = process.env.WARN_COUNT || 3;
+global.warncount = process.env.WARN_COUNT || 2;
 global.disablepm = process.env.DISABLE_PM || "false";
 global.disablegroup = process.env.DISABLE_GROUPS || "false",
 global.MsgsInLog = process.env.MSGS_IN_LOG || "false";
@@ -35,7 +35,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "";
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
-global.read_status_from = process.env.READ_STATUS_FROM || "2347013349642,234xxxxx";
+global.read_status_from = process.env.READ_STATUS_FROM || "2347025012871,234xxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://x-bot-session-generator.onrender.com";
@@ -45,14 +45,14 @@ global.SESSION_ID =
   ""
 module.exports = {
   menu: process.env.MENU || "2",
-  HANDLERS: process.env.PREFIX || ".",
+  HANDLERS: process.env.PREFIX || "😂",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©X-:bot",
-  author: process.env.PACK_AUTHER || "X-bot",
+  caption: process.env.CAPTION || "© YOUNGPRIEST-:Bot",
+  author: process.env.PACK_AUTHER || "YOUNGPRIEST-bot",
   packname: process.env.PACK_NAME || "",
-  botname: process.env.BOT_NAME || "X-bot",
-  ownername: process.env.OWNER_NAME || "-X-",
+  botname: process.env.BOT_NAME || "YOUNGPRIEST-bot",
+  ownername: process.env.OWNER_NAME || "-y-",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
