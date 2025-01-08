@@ -1,5 +1,5 @@
 {
-   "name": "X-bot",
+   "name": "`YOUNGPRIEST`-bot",
    "version": "2.5.0",
    "description": "Multi device whatsapp bot by Mek-d1.",
    "main": "index.js",
@@ -7,8 +7,8 @@
    "scripts": {
       "run": "pm2 start . --deep-monitoring --attach --name X-bot || node .",
       "asta": "pm2 start . --deep-monitoring --attach --name X-bot || node .",
-      "start": "pm2 start . --attach --name X-bot",
-      "stop": "pm2 stop X-bot",
+      "start": "pm2 start . --attach --name 𝙔𝞗𝙐𝞜𝙂𝞠𝞒𝞘𝞢𝙎𝙏-bot",
+      "stop": "pm2 stop 𝙔𝞗𝙐𝞜𝙂𝞠𝞒𝞘𝞢𝙎𝙏-bot",
       "heroku-postbuild": "git clone https://github.com/Mek-d1/X-bot temp && mv temp/.git .git && rm -rf temp && npx puppeteer@latest install  --y",
       "fis-heroku-postbuild": "git clone https://github.com/Mek-d1/X-bot.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
       "postinstall": "npx puppeteer@latest install --y"
