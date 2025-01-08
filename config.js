@@ -15,9 +15,9 @@ global.DATABASE_URL = process.env.DATABASE_URL || "mongodb+srv://mohsin:mohsin@c
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Africa/Lagos";
 global.github = process.env.GITHUB || "https://github.com/Mek-d1/X-bot";
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VavqeJY9sBIHH80KOT3B";
-global.website = process.env.GURL || "https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G";
+global.website = process.env.GURL || "";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://files.catbox.moe/mx0z4n.jpg";
-global.devs = "2349133354644";
+global.devs = "2347025012871";
 global.sudo = process.env.SUDO || "2347025012871";
 global.owner = process.env.OWNER_NUMBER || "2347025012871";
 global.style = process.env.STYLE || "3";
@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "©X-:bot",
+  caption: process.env.CAPTION || "© YOUNGPRIEST-:bot",
   author: process.env.PACK_AUTHER || "X-bot",
   packname: process.env.PACK_NAME || "",
   botname: process.env.BOT_NAME || "YOUNGPRIEST-bot",
