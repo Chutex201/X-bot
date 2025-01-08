@@ -132,7 +132,7 @@ astro_patch.smd({
         'forwardingScore': 100, 
         'isForwarded': true,
         'externalAdReply': {
-          'title': '-X-:bot',
+          'title': '-YOUNGPRIEST-:bot',
           'sourceUrl': 'https://whatsapp.com/channel/0029VavqeJY9sBIHH80KOT3B'
         }
       },
