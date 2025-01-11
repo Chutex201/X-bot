@@ -18,7 +18,7 @@ function getNextMenuDesign() {
       lineSeparator: "☞ ",
       commandPrefix: "➔ ",
       footer: "☜☜☜☜☞☞☞☞",
-      emoji: "🌟",
+      emoji: "😀",
       categorySeparator: "☜☜☜✧☞☞☞\n",
     },
     {
@@ -34,7 +34,7 @@ function getNextMenuDesign() {
       lineSeparator: "✰ ",
       commandPrefix: "✦ ",
       footer: "✰✰✰✰✰✰✰",
-      emoji: "✨",
+      emoji: "😇",
       categorySeparator: "✰✰✰✰✰✰✰\n",
     }
   ];
@@ -57,14 +57,14 @@ function sleep(ms) {
 astro_patch.smd({
   'cmdname': "menu",
   'desc': "Displays a stylish, readable command list",
-  'react': '🤔',
+  'react': '😘',
   'type': 'user',
   'filename': __filename
 }, async (context, message) => {
   try {
     // Display loading messages
     const loadingMessages = [
-      "Offloading......"];
+      "Offloading 𝙔𝞗𝙐𝞜𝙂𝞠𝞒𝞘𝞢𝙎𝙏-bot menu......"];
     for (const msg of loadingMessages) {
       await context.sendMessage(context.chat, { text: msg });
       await sleep(1000); // Wait for 1 second between messages
@@ -132,8 +132,8 @@ astro_patch.smd({
         'forwardingScore': 100, 
         'isForwarded': true,
         'externalAdReply': {
-          'title': '-X-:bot',
-          'sourceUrl': 'https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G'
+          'title': '-𝙔𝞗𝙐𝞜𝙂𝞠𝞒𝞘𝞢𝙎𝙏-:bot',
+          'sourceUrl': 'https://whatsapp.com/channel/0029VavqeJY9sBIHH80KOT3B'
         }
       },
       'ephemeralExpiration': 3000
@@ -150,6 +150,6 @@ astro_patch.smd({
 // Function to fetch current temperature
 async function getTemperature() {
   // Fetch temperature from an API or other source
-  return "27°C"; // Placeholder value
+  return "29°C"; // Placeholder value
     }
   
