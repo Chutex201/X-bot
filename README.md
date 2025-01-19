@@ -1,19 +1,19 @@
 # 🌟 X-bot 🌟
 
 <p align="center">
-  <img src="https://files.catbox.moe/ldv7px.jpg" alt="X-bot Banner" width="450" style="border-radius: 15px;"/>
+  <img src="https://files.catbox.moe/ldv7px.jpg" alt="youngpriest-bot Banner" width="450" style="border-radius: 15px;"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Mek+d1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+Mek+d1" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Arial%20Black&weight=700&size=16&duration=3500&pause=1000&color=FF5733&vCenter=true&width=400&lines=🚀+Mek+d1+WhatsApp+Bot;💬+Multi-Device+Support;🛠️+Developed+By+young+priest" alt="Typing SVG Animation" />
   </a>
 </p>
 
 ---
 
 ## 🚀 Ｄｅｐｌｏｙｍｅｎｔ Ｏｐｔｉｏｎｓ
-Get started with X-bot quickly! Choose your preferred deployment method:
+Get started with youngpriest-bot quickly! Choose your preferred deployment method:
 
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
@@ -33,7 +33,7 @@ Get started with X-bot quickly! Choose your preferred deployment method:
   </a>
 
 ### 🌈 ３．ＤＥＰＬＯＹ ＴＯ ＰＬＡＴＦＯＲＭＳ
-Pick your favorite platform to deploy X-bot:
+Pick your favorite platform to deploy youngpriest-bot:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
@@ -96,7 +96,7 @@ The script for X-bot is not openly allowed to be used in any of your projects; b
 <img alt="Development" width="250" src="https://f.uguu.se/KzWJaMCY.jpg" /> </p>
 
 ## Support
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+SUPPORT CHANNEL: <a href="https://https://whatsapp.com/channel/0029VavqeJY9sBIHH80KOT3B"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Please Give One Star ✨ & [follow me to get notified of my updates 💗](https://github.com/Mek-d1/X-bot)
 
