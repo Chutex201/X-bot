@@ -17,7 +17,7 @@ Get started with X-bot quickly! Choose your preferred deployment method:
 
 ### ⭐ １．ＦＯＲＫ ＴＨＩＳ ＲＥＰＯＳＩＴＯＲＹ
 <p align="center">
-  <a href="https://github.com/Mek-d1/X-bot/fork" target="_blank">
+  <a href="https://github.com/Chutex201/X-bot.git/fork" target="_blank">
     <img alt="Fork repo" src="https://img.shields.io/badge/✨ Fork This Repo-FF4500?style=for-the-badge&logo=git&logoColor=white"/>
   </a>
 </p>
@@ -60,7 +60,7 @@ Pick your favorite platform to deploy X-bot:
 
   <div style="border: 2px solid #FF4500; border-radius: 15px; padding: 15px; width: 80%; text-align: center;">
     <h3 style="font-family: 'Arial Black', sans-serif; font-size: 20px;">Heroku</h3>
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/Mek-d1/X-bot">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Chutex201/X-bot.git">
       <img src="https://img.shields.io/badge/-🚀_Deploy_on_Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/>
     </a>
     <br>
@@ -90,8 +90,8 @@ The script for X-bot is not openly allowed to be used in any of your projects; b
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
 <br>
 <p align="center">
-<a href="https://wa.me/2347013349642"><img src="https://img.shields.io/badge/Contact 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗫-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://whatsapp.com/channel/0029VarIiQL5a24AU5ZCVV0G"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2347025012871"><img src="https://img.shields.io/badge/Contact 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗫-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VavqeJY9sBIHH80KOT3B"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
 <img alt="Development" width="250" src="https://f.uguu.se/KzWJaMCY.jpg" /> </p>
 
